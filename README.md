@@ -220,7 +220,7 @@ This project demonstrates practical experience with:
 
 **Sultan Husen**
 
-Aspiring Software Developer
+Full Stack Developer
 
 GitHub: **[@abuki16](https://github.com/abuki16)**
 
